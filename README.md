@@ -25,7 +25,8 @@ I'm a software developer with a strong focus on **Python**, **PyTorch**, and **A
 | :--- | :--- | :--- | :---: |
 | **[SharedMealPrepManager](https://github.com/Danny-Nosrati/SharedMealPrepManager)** | A collaborative meal prep management application built for **CPSC 210**. No AI, pure Java OOP with custom data structures and persistence. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | Aug 2026 |
 | **FabriSight Website** | Company website for FabriSight. *(Private codebase)* | 🔒 Private | Jun 2026 |
-| **[ROI Simulation](https://github.com/Danny-Nosrati/ROI-Simulation)** | An interactive ROI simulation tool built for **FabriSight**: configure production line parameters and visualize cost savings from AI-powered quality inspection. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) | Apr 2026 |
+| **[ROI Simulation](https://github.com/Danny-Nosrati/ROI-Simulation)** | An interactive ROI simulation tool built for **FabriSight**: configure production line parameters and visualize cost savings from AI-powered inspection. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) | Apr 2026 |
+| **[XOR Neural Network](https://github.com/Danny-Nosrati/XOR-Neural-Network)** | Interactive neural network visualizer for learning logic gates. Step through forward/backward passes, watch decision boundaries form in real time. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5 Canvas](https://img.shields.io/badge/-Canvas-E34F26?style=flat&logo=html5&logoColor=white) | Mar 2026 |
 | **[Financial Tracker](https://github.com/Danny-Nosrati/financial-tracker)** | Premium finance dashboard with monthly trends, category breakdowns, and cloud sync via Firebase.<br>[**Live Demo**](https://financial-tracker-danny.vercel.app/) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) | Jan 2026 |
 | **[Machine Learning](https://github.com/Danny-Nosrati/Machine-Learning-Playground)** | A collection of my experiments and models as I explore the field of AI and Data Science. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | Jan 2026 |
 | **[Pawmora](https://github.com/Danny-Nosrati/Pawmora)** | A social platform for pet lovers. Built with a custom **Mock Database** engine (supports Upsert/Chaining) to simulate a real backend.<br>[**Live Demo**](https://pawmora-danny.vercel.app/) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) | Dec 2025 |
@@ -34,6 +35,12 @@ I'm a software developer with a strong focus on **Python**, **PyTorch**, and **A
 | **[Vidly](https://github.com/Danny-Nosrati/vidly)** | A robust Movie Rental API built as part of my **Python Mastery Certification**.<br>Features authenticated endpoints and admin management. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Apr 2025 |
 
 ---
+
+### 🌐 Open Source Contributions
+
+| Organization | Repo | My Work |
+| :--- | :--- | :--- |
+| **[UBC AgroBot](https://github.com/UBCAgroBot)** | [fruit-multiclass-detection](https://github.com/UBCAgroBot/fruit-multiclass-detection) | 16 commits: helped build the model from scratch, built MNIST autograd engine, implemented tensor view ops (reshape, unsqueeze, squeeze), added training visualization and metrics tracking |
 
 ### 🛠️ Skills
 
