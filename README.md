@@ -38,9 +38,9 @@ I'm a software developer with a strong focus on **Python**, **PyTorch**, and **A
 
 ### 🌐 Open Source Contributions
 
-| Organization | Date | Repo | My Work |
-| :--- | :---: | :--- | :--- |
-| **[UBC AgroBot](https://github.com/UBCAgroBot)** | Feb - Apr 2026 | [fruit-multiclass-detection](https://github.com/UBCAgroBot/fruit-multiclass-detection) | Helped build the model from scratch, built MNIST autograd engine, implemented tensor view ops, added training visualization and metrics tracking (16 commits) |
+| Organization | Repo | My Work | Date |
+| :--- | :--- | :--- | :---: |
+| **[UBC AgroBot](https://github.com/UBCAgroBot)** | [fruit-multiclass-detection](https://github.com/UBCAgroBot/fruit-multiclass-detection) | Helped build the model from scratch, built MNIST autograd engine, implemented tensor view ops, added training visualization and metrics tracking (16 commits) | Feb - Apr 2026 |
 
 ### 🛠️ Skills
 
